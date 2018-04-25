@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "jsonwebtoken": "^8.0.0",
+    "jwks-rsa": "^1.2.1",
     "lodash.set": "^4.3.2"
   },
   "devDependencies": {
